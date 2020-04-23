@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587662660034.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1836032452",
+    "id" : "B50C793C",
+    "lastKnownWriteTime" : 1587662705,
+    "last_content_update" : 1587662705364,
+    "path" : "C:/Users/SUMIT KUSHWAHA/Desktop/temporary/testing2.R",
+    "project_path" : "testing2.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
